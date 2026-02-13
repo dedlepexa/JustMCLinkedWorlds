@@ -1,2 +1,1 @@
-CSP » Код шаблона:
 {"type":"event","position":0,"operations":[{"action":"set_variable_create_list","values":[{"name":"values","value":{"type":"array","values":[]}},{"name":"variable","value":{"type":"variable","variable":"Список слов","scope":"game"}}]},{"action":"game_send_web_request","values":[{"name":"url","value":{"type":"text","text":"https://raw.githubusercontent.com/dedlepexa/JustMCLinkedWorlds/refs/heads/main/Testing2","parsing":"plain"}},{"name":"content_body","value":{}},{"name":"headers","value":{}}]}],"event":"world_start"}
